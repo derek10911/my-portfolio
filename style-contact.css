@@ -1,0 +1,27 @@
+body {
+    background-color: #111213;
+    font-family: sans-serif;
+    font-size: 14px;
+    line-height: 1.5;
+    color: #fff;
+    letter-spacing: -0.3px;
+    -webkit-text-size-adjust: 100%;
+}
+img{
+    size: 480px;
+}
+h1{
+    color: #dee2e6;
+}
+h2{
+    color:#ced4da;
+}
+h3{
+    color: #adb5bd;
+}
+.p-color {
+    color: #5e636e;
+}
+#S-color-contact{
+    color: #5e636e;
+}
