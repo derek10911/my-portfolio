@@ -7,9 +7,6 @@ body {
     letter-spacing: -0.3px;
     -webkit-text-size-adjust: 100%;
 }
-img{
-    size: 480px;
-}
 h1{
     color: #dee2e6;
 }
@@ -21,6 +18,13 @@ h3{
 }
 .p-color {
     color: #5e636e;
+}
+.content {
+    max-width: 500px;
+    margin: auto;
+}
+img{
+    size: 480px;
 }
 #S-color-contact{
     color: #5e636e;
